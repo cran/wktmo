@@ -1,7 +1,7 @@
 Package: wktmo
 Type: Package
 Title: Converting Weekly Data to Monthly Data
-Version: 1.0.1
+Version: 1.0.3
 Date: 2017-05-31
 Authors@R: person("You", "Li", email = "You.Li2@ed.ac.uk",
   role = c("aut", "cre"))
@@ -13,8 +13,8 @@ Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.0.1
 NeedsCompilation: no
-Packaged: 2017-05-31 14:08:49 UTC; s1666783
+Packaged: 2017-06-05 10:24:33 UTC; s1666783
 Author: You Li [aut, cre]
 Maintainer: You Li <You.Li2@ed.ac.uk>
 Repository: CRAN
-Date/Publication: 2017-05-31 19:30:08 UTC
+Date/Publication: 2017-06-05 15:13:50 UTC
