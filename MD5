@@ -1,10 +1,10 @@
-f8eba0a94de5484ff9474e1b124f2ffb *DESCRIPTION
+991ce364643aa7d740827b620518e45a *DESCRIPTION
 b9608afbde38659aa2f02d44a0fc2409 *NAMESPACE
 a9f72b2d83033035f0f99811412d1c9e *R/dateFromWeek.R
-1bcd8b6b1cab0db1cd605d4f4b4237d9 *R/weekToMonth.R
-17dda645c119e61559fe7aa91f94e963 *R/weeklyFlu.R
-dec0be3fcc7003603f14dc28b3ce2edc *README.md
+fd3ab3b092c250ea1170e957f949fed0 *R/weekToMonth.R
+5a5602a0baa2ff1b417eb45c85f940c7 *R/weeklyFlu.R
+1ada072e54e09308bcd3d4b5abf5819f *README.md
 f0a97bf5a3cfeeedff491e647d254ffc *data/weeklyFlu.rda
 0b77f4c376cf536e4ca3178570a53bab *man/dateFromWeek.Rd
 167776168e6fc62907d5ddd639fef97f *man/weekToMonth.Rd
-63ce27189449151824d3312481187928 *man/weeklyFlu.Rd
+58ef9a29fe35cee82b276c3a315bf2c5 *man/weeklyFlu.Rd
